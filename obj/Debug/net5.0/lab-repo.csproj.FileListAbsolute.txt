@@ -1,0 +1,16 @@
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\bin\Debug\net5.0\lab-repo.exe
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\bin\Debug\net5.0\lab-repo.deps.json
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\bin\Debug\net5.0\lab-repo.runtimeconfig.json
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\bin\Debug\net5.0\lab-repo.runtimeconfig.dev.json
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\bin\Debug\net5.0\lab-repo.dll
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\bin\Debug\net5.0\ref\lab-repo.dll
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\bin\Debug\net5.0\lab-repo.pdb
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\obj\Debug\net5.0\lab-repo.csprojAssemblyReference.cache
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\obj\Debug\net5.0\lab-repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\obj\Debug\net5.0\lab-repo.AssemblyInfoInputs.cache
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\obj\Debug\net5.0\lab-repo.AssemblyInfo.cs
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\obj\Debug\net5.0\lab-repo.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\obj\Debug\net5.0\lab-repo.dll
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\obj\Debug\net5.0\ref\lab-repo.dll
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\obj\Debug\net5.0\lab-repo.pdb
+C:\xampp\htdocs\projects\bootstraped\git\lab-repo\obj\Debug\net5.0\lab-repo.genruntimeconfig.cache
